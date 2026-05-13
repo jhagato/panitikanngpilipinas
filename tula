@@ -1,30 +1,67 @@
+<!DOCTYPE html>
+<html lang="fil">
+<head>
+  <meta charset="UTF-8">
+  <title>Ulan</title>
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      max-width: 700px;
+      margin: 40px auto;
+      line-height: 1.8;
+      padding: 0 15px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .author {
+      text-align: center;
+      font-style: italic;
+      margin-bottom: 40px;
+    }
+    a {
+      color: #003366;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <p><a href="../index.html">← Bumalik sa Home</a></p>
+
+  <h1>Ulan</h1>
+  <div class="Julie Agato">Pangalan ng May‑Akda</div>
+
+  <p>
+    
+
+Hindi ito ang panahon sa pananalinhaga <br>
+Hindi ito oras para lagyan ng poëtika ang panggagahasa <br>
+Hindi ito ang oras para imago sa talihaga ang katiwalian at kawalan ng pag-asa <br>
+Kung bulok siya sabihin mont “Bulok ka!” <br>
+Kung magnanakaw siya, sabihin mong “Magnanakaw ka!” <br>
+Bakit mo bibihisan ng talulot ng rosa ang kasamaan <br>
+Itinatago mo lamang ito sa paniniwalang marikit ang kasamaan. <br>
+Gusto mo bang balutin ito ng hiwaga ng mga salita? <br>
+Lalo lamang mananatiling bulag ang mga kasalukuyan mambabasa <br>
+Lalo lamang magiging panatiko ang mahihilig sa padrino at materyalistikong bagay <br>
 
 
-Hindi ito ang panahon sa pananalinhaga
-Hindi ito oras para lagyan ng poëtika ang panggagahasa
-Hindi ito ang oras para imago sa talihaga ang katiwalian at kawalan ng pag-asa
-Kung bulok siya sabihin mont “Bulok ka!”
-Kung magnanakaw siya, sabihin mong “Magnanakaw ka!”
-Bakit mo bibihisan ng talulot ng rosa ang kasamaan
-Itinatago mo lamang ito sa paniniwalang marikit ang kasamaan.
-Gusto mo bang balutin ito ng hiwaga ng mga salita?
-Lalo lamang mananatiling bulag ang mga kasalukuyan mambabasa
-Lalo lamang magiging panatiko ang mahihilig sa padrino at materyalistikong bagay
+Ang talinghaga ay hindi laging dapat hanapin sa tula <br>
+Dahil ang talinhaga kapag ginamit mo sa isang tahasang pandarahas <br>
+Pinaniniwalaang maganda at nagkukubli ng kapalaluan <br>
 
-
-Ang talinghaga ay hindi laging dapat hanapin sa tula
-Dahil ang talinhaga kapag ginamit mo sa isang tahasang pandarahas
-Pinaniniwalaang maganda at nagkukubli ng kapalaluan
-
-Anong metapora pa ba ang kailangan pa sa mga lihim nilang pagnanakaw?
-Diyan siya yumayaman sa mga poetika ng paglilingkod kunyari sa bayan.
-Ang salita ay makapangyarihan!
-Ipako mo nang lantaran ang madaraya, madarambong at tusukin ng talim ng pandtik!
-Hindi kailangang limliman ng poëtika ng tula ang sinumang taksil sa bayan
-Kung sakim siya, sabihin mong “Sakim ka!”
-Kung mandaraya ka, sabihin mong “Mandaraya ka!”
-Kung wala siyang hiya, sabihin mong “Walang hiya ka!”
+Anong metapora pa ba ang kailangan pa sa mga lihim nilang pagnanakaw? <br>
+Diyan siya yumayaman sa mga poetika ng paglilingkod kunyari sa bayan. <br>
+Ang salita ay makapangyarihan! <br>
+Ipako mo nang lantaran ang madaraya, madarambong at tusukin ng talim ng pandtik! <br>
+Hindi kailangang limliman ng poëtika ng tula ang sinumang taksil sa bayan <br>
+Kung sakim siya, sabihin mong “Sakim ka!” <br>
+Kung mandaraya ka, sabihin mong “Mandaraya ka!” <br>
+Kung wala siyang hiya, sabihin mong “Walang hiya ka!” <br>
 Sabay tanungin mo, “Dapat Kang parusahan!”
+   
+  </p>
 
-
-
+</body>
+</html>
